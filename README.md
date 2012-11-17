@@ -6,6 +6,8 @@ To use:
 lein new storm-project my-awesome-storm-project
 ```
 
+## License
+
 Copyright © 2012 Travis Vachon
 
 Distributed under the Eclipse Public License, the same as Clojure.
